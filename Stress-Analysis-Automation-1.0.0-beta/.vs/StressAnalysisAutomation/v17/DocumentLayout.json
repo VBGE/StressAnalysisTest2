@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\223139002\\Desktop\\Stress-Analysis-Test-version\\Stress-Analysis-Automation-1.0.0-beta\\Stress-Analysis-Automation-1.0.0-beta\\",
+  "WorkspaceRootPath": "C:\\StressAnalysisTest2\\Stress-Analysis-Automation-1.0.0-beta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7746AF10-EE54-4CFD-904B-55B371B5AF5C}|MyCAD\\Stress Analysis Automation.csproj|c:\\users\\223139002\\desktop\\stress-analysis-test-version\\stress-analysis-automation-1.0.0-beta\\stress-analysis-automation-1.0.0-beta\\mycad\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{7746AF10-EE54-4CFD-904B-55B371B5AF5C}|MyCAD\\Stress Analysis Automation.csproj|c:\\stressanalysistest2\\stress-analysis-automation-1.0.0-beta\\mycad\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7746AF10-EE54-4CFD-904B-55B371B5AF5C}|MyCAD\\Stress Analysis Automation.csproj|solutionrelative:mycad\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7746AF10-EE54-4CFD-904B-55B371B5AF5C}|MyCAD\\Stress Analysis Automation.csproj|C:\\Users\\223139002\\Desktop\\Stress-Analysis-Test-version\\Stress-Analysis-Automation-1.0.0-beta\\Stress-Analysis-Automation-1.0.0-beta\\mycad\\graphicsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7746AF10-EE54-4CFD-904B-55B371B5AF5C}|MyCAD\\Stress Analysis Automation.csproj|C:\\StressAnalysisTest2\\Stress-Analysis-Automation-1.0.0-beta\\mycad\\graphicsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7746AF10-EE54-4CFD-904B-55B371B5AF5C}|MyCAD\\Stress Analysis Automation.csproj|solutionrelative:mycad\\graphicsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\223139002\\Desktop\\Stress-Analysis-Test-version\\Stress-Analysis-Automation-1.0.0-beta\\Stress-Analysis-Automation-1.0.0-beta\\MyCAD\\App.config",
+              "DocumentMoniker": "C:\\StressAnalysisTest2\\Stress-Analysis-Automation-1.0.0-beta\\MyCAD\\App.config",
               "RelativeDocumentMoniker": "MyCAD\\App.config",
-              "ToolTip": "C:\\Users\\223139002\\Desktop\\Stress-Analysis-Test-version\\Stress-Analysis-Automation-1.0.0-beta\\Stress-Analysis-Automation-1.0.0-beta\\MyCAD\\App.config",
+              "ToolTip": "C:\\StressAnalysisTest2\\Stress-Analysis-Automation-1.0.0-beta\\MyCAD\\App.config",
               "RelativeToolTip": "MyCAD\\App.config",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-08-15T20:01:26.432Z",
               "EditorCaption": ""
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "GraphicsExtension.cs",
-              "DocumentMoniker": "C:\\Users\\223139002\\Desktop\\Stress-Analysis-Test-version\\Stress-Analysis-Automation-1.0.0-beta\\Stress-Analysis-Automation-1.0.0-beta\\MyCAD\\GraphicsExtension.cs",
+              "DocumentMoniker": "C:\\StressAnalysisTest2\\Stress-Analysis-Automation-1.0.0-beta\\MyCAD\\GraphicsExtension.cs",
               "RelativeDocumentMoniker": "MyCAD\\GraphicsExtension.cs",
-              "ToolTip": "C:\\Users\\223139002\\Desktop\\Stress-Analysis-Test-version\\Stress-Analysis-Automation-1.0.0-beta\\Stress-Analysis-Automation-1.0.0-beta\\MyCAD\\GraphicsExtension.cs",
+              "ToolTip": "C:\\StressAnalysisTest2\\Stress-Analysis-Automation-1.0.0-beta\\MyCAD\\GraphicsExtension.cs",
               "RelativeToolTip": "MyCAD\\GraphicsExtension.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAAwAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

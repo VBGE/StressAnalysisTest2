@@ -94,3 +94,35 @@ C:\Users\223139002\Desktop\Stress-Analysis-Test-version\Stress-Analysis-Automati
 C:\Users\223139002\Desktop\Stress-Analysis-Test-version\Stress-Analysis-Automation-1.0.0-beta\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\Stress A.AFA5F15F.Up2Date
 C:\Users\223139002\Desktop\Stress-Analysis-Test-version\Stress-Analysis-Automation-1.0.0-beta\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\MyCAD.exe
 C:\Users\223139002\Desktop\Stress-Analysis-Test-version\Stress-Analysis-Automation-1.0.0-beta\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\MyCAD.pdb
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\bin\Release\MaterialsDBDataSet.Designer.cs
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\bin\Release\MaterialsDBDataSet.xsc
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\bin\Release\MaterialsDBDataSet.xsd
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\bin\Release\MaterialsDBDataSet.xss
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\bin\Release\MaterialsDB.mdf
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\bin\Release\MaterialsDB_log.ldf
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\bin\Release\MyCAD.exe.config
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\bin\Release\MyCAD.exe.manifest
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\bin\Release\MyCAD.application
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\bin\Release\MyCAD.exe
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\bin\Release\MyCAD.pdb
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\bin\Release\MyCAD.exe.CodeAnalysisLog.xml
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\bin\Release\MyCAD.exe.lastcodeanalysissucceeded
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\bin\Release\System.Windows.Forms.Ribbon.dll
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\Stress Analysis Automation.csproj.AssemblyReference.cache
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\MyCAD.EntryForms.Input_Values.resources
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\MyCAD.EntryForms.SetLineLengthForm.resources
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\MyCAD.SetMaterial.resources
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\MyCAD.EntryForms.SetStartPoint.resources
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\MyCAD.GraphicsForm.resources
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\MyCAD.MainForm.resources
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\MyCAD.OutputForms.LinesListForm.resources
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\MyCAD.OutputForms.VerticesListForm.resources
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\MyCAD.Properties.Resources.resources
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\Stress Analysis Automation.csproj.GenerateResource.cache
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\Stress Analysis Automation.csproj.CoreCompileInputs.cache
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\MyCAD.TrustInfo.xml
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\MyCAD.exe.manifest
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\MyCAD.application
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\Stress A.AFA5F15F.Up2Date
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\MyCAD.exe
+C:\StressAnalysisTest2\Stress-Analysis-Automation-1.0.0-beta\MyCAD\obj\Release\MyCAD.pdb
